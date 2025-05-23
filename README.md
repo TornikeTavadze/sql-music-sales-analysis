@@ -16,14 +16,6 @@ The results were exported and visualized in Excel using bar charts, pie charts, 
 
 ---
 
-## 📁 Folder Structure
-
-sql-music-sales-analysis/
-├── SQL/ # All cleaned SQL query files
-├── Excel/ # Excel dashboard with charts
-
----
-
 ## 🔧 Tools Used
 
 - **MySQL** (PopSQL IDE)
